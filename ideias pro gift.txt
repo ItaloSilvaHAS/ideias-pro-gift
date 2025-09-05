@@ -1,0 +1,7 @@
+Implement:
+
+- random events
+- escolhas que mudam o desenrolar dos capitulos e dos proximos
+- jump scare
+- Horror and suspense
+- unknom horror (medo do desconhecido)
